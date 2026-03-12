@@ -1,0 +1,23 @@
+names:
+  0: Blue Module
+  1: yellow module
+  2: Box
+  3: small gray module
+  4: gray orange module
+  5: groin
+  6: big gray module
+  7: 35mm
+  8: cable input
+  9: black module
+  10: cable ending
+  11: round gray thing
+  12: small red thing
+  13: bigger red thing
+  14: 12mm
+  15: big cable ending
+  16: screw
+  17: yellow_cable_input
+  18: cable input2
+path: .
+train: Train.txt
+val: Val.txt
